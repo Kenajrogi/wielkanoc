@@ -1,0 +1,55 @@
+html
+{	
+background-color: #e999ff;
+}
+
+
+
+#jeden
+{
+	float:left;
+	width:45%;
+	background-color: #e999ff;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	text-align: center;
+	margin-top:30px;
+}
+#dwa
+{
+	float:left;
+	width:45%;
+	background-color:#a2f5be;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	height:750px;
+	text-align: center;
+	margin-top:30px;
+	
+}
+h1
+{
+	font-family: 'Marck Script', cursive;
+	font-size:56px;
+}
+h4
+{
+	color:#a2f5be;
+}
+p
+{
+	font-family: 'Roboto Slab';
+	font-size: 20px;
+	text-align:left;
+	padding: 60px;
+}
+img
+{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 40px;
+	width: 500px;
+	opacity: 0.2;
+}
